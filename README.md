@@ -20,23 +20,12 @@
 
 ## 🧑‍💻 About Me
 
-```dart
-class Developer {
-  final String name    = "Nguyen Van Giang";
-  final String role    = "Flutter Developer | Backend Learner";
-  final String from    = "Ho Chi Minh City, Vietnam 🇻🇳";
-  final String goal    = "Fullstack Mobile Developer";
-
-  final List<String> currentWork = [
-    "📱 Building cross-platform apps with Flutter",
-    "⚙️  Learning ASP.NET Core Web API",
-    "🗄  Working with MySQL & RESTful APIs",
-    "🔐 Implementing JWT Authentication",
-  ];
-
-  String get motto => "Code. Debug. Repeat. 🚀";
-}
-```
+- 📱 Building cross-platform apps with **Flutter**
+- ⚙️ Learning **ASP.NET Core Web API**
+- 🗄 Working with **MySQL & RESTful APIs**
+- 🔐 Implementing **JWT Authentication**
+- 🎯 Goal: Become a **Fullstack Mobile Developer**
+- 📍 Based in **Ho Chi Minh City, Vietnam** 🇻🇳
 
 ---
 
@@ -111,7 +100,7 @@ class Developer {
 
 <div align="center">
 
-![snake](https://github.com/Giang-ASAG/Giang-ASAG/blob/output/github-contribution-grid-snake-dark.svg)
+![snake](https://github.com/Giang-ASAG/Giang-ASAG/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
