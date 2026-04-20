@@ -88,11 +88,7 @@
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Giang-ASAG&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
